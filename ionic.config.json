@@ -1,0 +1,7 @@
+{
+  "name": "pengecekan cuaca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
